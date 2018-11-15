@@ -86,8 +86,6 @@ class SignIn extends Component {
                 })
             });
 
-
-
             console.log(dataToSubmit);
         } else {
             this.setState({
